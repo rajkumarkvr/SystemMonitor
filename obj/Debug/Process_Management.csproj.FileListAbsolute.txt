@@ -1,0 +1,9 @@
+D:\c#projects\Process_Management\bin\Debug\Process_Management.exe.config
+D:\c#projects\Process_Management\bin\Debug\Process_Management.exe
+D:\c#projects\Process_Management\bin\Debug\Process_Management.pdb
+D:\c#projects\Process_Management\obj\Debug\Process_Management.csprojResolveAssemblyReference.cache
+D:\c#projects\Process_Management\obj\Debug\Process_Management.Form1.resources
+D:\c#projects\Process_Management\obj\Debug\Process_Management.Properties.Resources.resources
+D:\c#projects\Process_Management\obj\Debug\Process_Management.csproj.GenerateResource.Cache
+D:\c#projects\Process_Management\obj\Debug\Process_Management.exe
+D:\c#projects\Process_Management\obj\Debug\Process_Management.pdb
